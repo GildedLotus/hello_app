@@ -20,7 +20,7 @@ gem 'turbolinks',   '2.3.0'
 gem 'jbuilder', '2.1.3'
 gem 'rails-html-sanitizer', '1.0.1'
 # bundle exec rake doc:rails generates the API under doc/api.
-gem 'sdoc', '~> 0.4.0', group: :doc
+gem 'sdoc', '0.4.0', group: :doc
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
